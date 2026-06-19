@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phtmaal.github.io/web-cn-okooo-com/sitemap.xml
